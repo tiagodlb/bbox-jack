@@ -5,16 +5,6 @@ The minimum bounding rectangle (MBR), also known as bounding box (BBOX) or envel
 
 https://en.wikipedia.org/wiki/Minimum_bounding_rectangle
 
-Box
-
-                p2(5,10)
---------------- 
--             -
--             -
--             -
----------------
-p1 (0,0)
-
 ### Solution
 Can be found on /main
 
