@@ -1,0 +1,13 @@
+class Main{
+    function void main() {
+      var Box box;
+      let box = Box.new(Point.new(0,0), Point.new(10,6));
+      do Output.printInt(box.getWidth());
+      do Output.printString("\n");
+      do Output.printInt(box.getHeight());
+      do Output.printString("\n");
+      do Output.printInt(box.getArea());
+      
+      return;
+    }
+}
